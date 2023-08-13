@@ -1,4 +1,4 @@
-package com.springboot2.sample.dto;
+package com.sbapi.sample.dto;
 
 public class StringResponse {
     private String echo;

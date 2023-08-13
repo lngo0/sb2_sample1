@@ -1,4 +1,4 @@
-package com.springboot2.sample.controller;
+package com.sbapi.sample.controller;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.RequestMapping;
